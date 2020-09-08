@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Krish Shah"
   avatar : "/assets/images/Krish.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a 16 year old interested in computer engineering. During my high school career, I've participated in 5 different clubs, 2 sports, and many out of school activities. In Boy Scouts, I have earned the rank of Eagle Scout and have been promoted to Junior Assistant Scout Master. I also invested about 100 hours of my time mentoring Northern Burlington’s Middle School FLL Team. Finally, I have earned Black Belt and am currently working towards 2nd Degree Black Belt."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
