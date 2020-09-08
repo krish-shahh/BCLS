@@ -1,7 +1,7 @@
 ---
 title: "Post: Modified Date"
 layout: posts
-date: 02-05
+date: 2020-02-05
 categories:
   - Blog
 ---
