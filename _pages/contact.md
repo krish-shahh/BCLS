@@ -2,17 +2,6 @@
 permalink: /contact/
 title: "Contact Us"
 ---
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Krish_Shahh"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/KrishShah2003"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/krish.shahh"
-
    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/mentoringsuperhighway@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
