@@ -1,6 +1,6 @@
 ---
-permalink: /contact/
-title: "Contact Us"
+permalink: /join/
+title: "Join Us"
 ---
 
 
