@@ -13,3 +13,5 @@ title: "Contact Us"
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
+   
+   PLEASE FOLLOW OUR SOCIAL MEDIA IN THE FOOTER OF OUR WEBSITE. DON'T FORGET TO SHARE OUR SITE WITH FRIENDS AND FAMILY THAT MAY BENEFIT FROM OUR SERVICE.
