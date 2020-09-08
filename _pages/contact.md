@@ -2,8 +2,6 @@
 permalink: /contact/
 title: "Contact Us"
 ---
-   PLEASE FOLLOW OUR SOCIAL MEDIA IN THE FOOTER OF OUR WEBSITE. DON'T FORGET TO SHARE OUR SITE WITH FRIENDS AND FAMILY THAT MAY BENEFIT FROM OUR SERVICE.
-
    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/mentoringsuperhighway@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
