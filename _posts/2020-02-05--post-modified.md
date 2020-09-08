@@ -1,13 +1,9 @@
 ---
 title: "Post: Modified Date"
 layout: posts
-date: 2020-02-05
+date: 02-05
 categories:
   - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 This post has been updated and should show a modified date if used in a layout.
