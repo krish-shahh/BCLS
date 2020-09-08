@@ -22,5 +22,4 @@ title: "Join Us"
     <input type="hidden" name="_subject" id="email-subject" value="Join Us">
   </fieldset>
   <input type="submit" value="Join Us">
-</form>
 
