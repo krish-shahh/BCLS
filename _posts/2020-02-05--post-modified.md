@@ -1,5 +1,7 @@
 ---
 title: "Post: Modified Date"
+layout: posts
+date: 2020-02-05
 categories:
   - Blog
 tags:
