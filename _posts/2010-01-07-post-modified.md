@@ -1,6 +1,5 @@
 ---
 title: "Post: Modified Date"
-last_modified_at: 01-03-2020
 categories:
   - Blog
 tags:
