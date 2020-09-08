@@ -16,7 +16,7 @@ title: "Contact Us"
     <label for="entry.839337160">Comments</label><br>
     <textarea name="entry.839337160" id="entry.839337160" rows="8"
               cols="50"></textarea><br>
-    <input type="submit" name="" value="submit">
+    <input type="submit" name="" value="Submit">
            </form>
           <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){}"></iframe>
   <script
