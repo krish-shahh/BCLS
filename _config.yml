@@ -113,11 +113,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-  comments:
-  provider: "disqus"
-  disqus:
-    shortname: "mentoring-superhighway-1"
     
  google_site_verification: google3fdb4833116ee051
 
