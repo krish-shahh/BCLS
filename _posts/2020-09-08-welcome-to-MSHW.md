@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Mentoring SuperHighway!"
+author: Krish Shah
 categories:
   - Miscellaneous
 ---
@@ -10,5 +11,3 @@ Once per month there will be a zoom call which will have a special guest whether
 If there are any questions with this program or any concerns please reach out to us in the "Contact Us" tab. Be sure to put your full name, email, and comments or questions you have.
 
 Please follow our social media linked in the website's footer.
-
---THIS POST WAS WRITTEN AND PUBLISHED BY KRISH SHAH--
