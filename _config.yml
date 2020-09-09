@@ -60,13 +60,13 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Krish_Shahh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Mentoring-SuperHighway"
+      url: "https://github.com/krish-shahh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/Krish.Shahh"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/krish-shah-4525a21b6/"
@@ -82,6 +82,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Mentoring-SuperHighway"
 
 defaults:
   # _posts
