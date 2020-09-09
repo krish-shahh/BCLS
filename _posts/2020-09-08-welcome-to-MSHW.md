@@ -13,4 +13,4 @@ Please follow our social media linked in the website's footer.
 
 <caption>POST BY KRISH SHAH</caption>
 
-![Our Logo](/assets/Logo.png)
+![Our Logo](https://github.com/Mentoring-SuperHighway/MSHW/blob/master/assets/images/Krish.jpeg)
