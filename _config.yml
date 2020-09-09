@@ -117,5 +117,5 @@ tag_archive:
   comments:
   provider: "disqus"
   disqus:
-    shortname: "mentoring-superhighway"
+    shortname: "mentoring-superhighway-1"
  
