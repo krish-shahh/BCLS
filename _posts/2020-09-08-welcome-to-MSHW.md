@@ -12,4 +12,6 @@ If there are any questions with this program or any concerns please reach out to
 Please follow our social media linked in the website's footer.
 
 <caption>POST BY KRISH SHAH</caption>
+
+comments: true
                             
