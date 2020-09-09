@@ -118,4 +118,7 @@ tag_archive:
   provider: "disqus"
   disqus:
     shortname: "mentoring-superhighway-1"
+    
+ google_site_verification: 
+
  
