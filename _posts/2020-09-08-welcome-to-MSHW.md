@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Mentoring SuperHighway!"
-author: krish_shah
+author: krish
 categories:
   - Miscellaneous
 ---
