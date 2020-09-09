@@ -13,4 +13,4 @@ Please follow our social media linked in the website's footer.
 
 <caption>POST BY KRISH SHAH</caption>
 
-![Our Logo](/assets/logo.png)
+![Our Logo](/assets/Logo.png)
