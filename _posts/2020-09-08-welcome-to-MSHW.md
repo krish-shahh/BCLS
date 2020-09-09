@@ -11,3 +11,14 @@ Once per month there will be a zoom call which will have a special guest whether
 If there are any questions with this program or any concerns please reach out to us in the "Contact Us" tab. Be sure to put your full name, email, and comments or questions you have.
 
 Please follow our social media linked in the website's footer.
+
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}">{{ author.name }}</a>
+    </span>
+{% endif %}
