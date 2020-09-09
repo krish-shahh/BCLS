@@ -12,15 +12,3 @@ If there are any questions with this program or any concerns please reach out to
 Please follow our social media linked in the website's footer.
 
 <caption>POST BY KRISH SHAH</caption>
-
-<div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 1928; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: false
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
-
-                            
