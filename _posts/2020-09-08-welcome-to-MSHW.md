@@ -17,8 +17,5 @@ Please follow our social media linked in the website's footer.
 
 <!-- Output author details if some exist. -->
 {% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}">{{ author.name }}</a>
-    </span>
+        Written by {{ author.name }}
 {% endif %}
