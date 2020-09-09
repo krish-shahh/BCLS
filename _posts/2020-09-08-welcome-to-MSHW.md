@@ -14,8 +14,3 @@ Please follow our social media linked in the website's footer.
 
 <!-- Look the author details up from the site config. -->
 {% assign author = site.data.authors[page.author] %}
-
-<!-- Output author details if some exist. -->
-{% if author %}
-        Written by {{ author.name }}
-{% endif %}
