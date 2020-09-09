@@ -109,4 +109,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
- 
+  
+ authors:
+  krish:
+    name: Krish Shah
+    display_name: Krish Shah
+    email: 2003kshah@gmail.com
