@@ -110,7 +110,7 @@ tag_archive:
   type: liquid
   path: /tags/
   
- authors:
+ author:
   krish:
     name: Krish Shah
     display_name: Krish Shah
