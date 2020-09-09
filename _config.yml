@@ -87,12 +87,12 @@ footer:
       url: "https://github.com/Mentoring-SuperHighway"
 
 defaults:
-  -
-    scope:
+  # _posts
+  - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "post"
+      layout: single
       author_profile: true
       read_time: true
       comments: true
