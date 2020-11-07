@@ -1,6 +1,5 @@
 ---
 title: "Welcome to Mentoring SuperHighway!"
-comments: true
 categories:
   - Miscellaneous
 ---
