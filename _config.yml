@@ -95,7 +95,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 
@@ -113,3 +113,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+  comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mentoring-superhighway"
