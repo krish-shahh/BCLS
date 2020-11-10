@@ -7,3 +7,7 @@ Mentoring SuperHighway is a free guide to all things high school and transitioni
 This guide is written in a blog format. That is, each individual post talks about a specific part of the high school process. Use the site search function to find information on a specific parts of the process. Once per month there will be a zoom call which will have a special guest whether that be a current high school student, past high school student, high school counselor, or college admissions officer. These zoom calls will be accessible through our mailing list which can be signed up for in the <a href="{{ '/join/' | relative_url }}">"Join Us"</a> tab of our website. 
 
 Finally, this guide is only that, a guide. It does not require a strict adherence, following suggestions down to the letter. Rather, it is best to use this guide to gain a more complete understanding of how high school works and how to have a better chance of succeeding in school.
+
+Please follow our social media linked in the website’s footer.
+
+
