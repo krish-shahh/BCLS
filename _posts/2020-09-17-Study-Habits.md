@@ -92,6 +92,14 @@ Once all the cards are in the "know" pile, go through the whole pile once again 
 
 Whatever your particular incentive is, let yourself have that small reward-boost to help see you through the days when studying seems particularly taxing.</p>
 
+<h2><b>Bonus Tip: Get Enough Sleep</b></h2>
+
+<p>The absolute, number one, most important way you can prepare yourself for a test is to sleep the night before. Getting a good night's sleep before a test (and preferably every night) is absolutely paramount.
+
+Sleep increases focus and concentration. The effects of not sleeping are much like being under the influence of alcohol. No matter how well you know the material, taking a test sleep deprived will do you no favors.
+
+A regular sleep schedule is preferable and will do wonders for your overall health, happiness, concentration, and memory. But even if you can't sleep, just closing your eyes and relaxing will help. So if you find yourself grappling with insomnia, let yourself relax in the dark and in your bed instead of whittling away the hours some other way.</p>
+
 
 <caption>Please follow our social media linked in the website's footer.</caption>
 
