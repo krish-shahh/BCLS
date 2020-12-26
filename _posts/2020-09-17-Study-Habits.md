@@ -86,7 +86,7 @@ Now go back through the cards again, but only studying the cards from Pile 2 (th
 
 Once all the cards are in the "know" pile, go through the whole pile once again to make sure you've retained the information on all the cards.
 
-<h2><b>Reward Yourself</b></h2>
+<h2><b>#5) Reward Yourself</b></h2>
 
 <p>To make studying a little more fun, give yourself a small reward whenever you hit a study milestone. For instance, let yourself eat a piece of candy for every 25 flash cards you test yourself on or for every three paragraphs you read (and re-word) in your textbook. Or perhaps give yourself one extra minute of video game or television-watching time for every page you study from your book (to be redeemed only after your study time is over, of course).
 
