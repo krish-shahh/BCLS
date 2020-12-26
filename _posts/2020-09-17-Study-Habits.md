@@ -34,6 +34,29 @@ After every 25 minute block of time is complete, give yourself a check mark and 
 
 By balancing up your time and energy between designated periods of focus and rest, you'll be able to tackle studying your topic at hand without mental fatigue and burnout (which can easily occur if you try to marathon your way through a study session) and without losing focus (which can happen if you find yourself taking a break that lasts...indefinitely). </p>
 
+<h2><b>Practice Good Study "Hygiene"</b></h2>
+Good study hygiene is about retaining a clear separation between work and rest. This allows you to focus on necessary tasks while minimizing stress and anxiety in the rest of your life.
+
+We've already talked about keeping a dedicated study space, but now we have to be sure to keep those areas as "hygienic" as possible. How? By following a few key rules of setting up your study environment:
+
+<b>Make Sure That You DON'T Study In or On Your Bed</b>
+
+Studying in sleeping areas is the very definition of NOT maintaining a clear separation between work and rest, and most often leads to increased levels of stress and insomnia. This, in turn, can decrease your concentration and ability to study in the long term.
+
+By blurring the lines between study-time and free-time, you'll only create spillover stress for yourself and be stuck in a cyclical effect of non-productivity and anxiety. So keep your study location to a desk, a table, or even a couch, so long as you aren't anywhere on your bed.
+
+<b>Keep Tantalizing Distractions Far Away</b>
+
+It's easy to allow ourselves to take "a quick break" to check our phones, get up and go hunting for a snack, or to let ourselves get caught up searching for irrelevant information on Wikipedia. There are untold distractions all around us that try to lure our concentration away from the task at hand, and giving into temptation can be an awful time suck. The best way to avoid distractions like these is to remove temptation altogether.
+
+Make up a snack for yourself before you start studying so that you're not tempted to get up. Keep your phone far away, and turn off your wifi on your computer if you can. Tell yourself that you can't get up to check on whatever has you distracted until your allotted study time is up. Whatever has you distracted can wait until your study time is over.
+
+<b>Keep Yourself Comfortable, Hydrated, and Fed</b>
+
+Taking care of your body's basic needs will not only help to improve your mood and concentration while you study, but it will also help make sure you avoid needing to get up (and thereby lose your focus) during your study time.
+
+So make sure you take water, a jacket, a snack, coffee, or whatever else you need to your study space so that you can be comfortable, focused, and ready to learn.
+
 
 
 <caption>Please follow our social media linked in the website's footer.</caption>
