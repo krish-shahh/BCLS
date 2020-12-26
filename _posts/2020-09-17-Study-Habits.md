@@ -34,7 +34,7 @@ After every 25 minute block of time is complete, give yourself a check mark and 
 
 By balancing up your time and energy between designated periods of focus and rest, you'll be able to tackle studying your topic at hand without mental fatigue and burnout (which can easily occur if you try to marathon your way through a study session) and without losing focus (which can happen if you find yourself taking a break that lasts...indefinitely). </p>
 
-<h2><b>Practice Good Study "Hygiene"</b></h2>
+<h2><b>#3) Practice Good Study "Hygiene"</b></h2>
 Good study hygiene is about retaining a clear separation between work and rest. This allows you to focus on necessary tasks while minimizing stress and anxiety in the rest of your life.
 
 We've already talked about keeping a dedicated study space, but now we have to be sure to keep those areas as "hygienic" as possible. How? By following a few key rules of setting up your study environment:
@@ -57,6 +57,40 @@ Taking care of your body's basic needs will not only help to improve your mood a
 
 So make sure you take water, a jacket, a snack, coffee, or whatever else you need to your study space so that you can be comfortable, focused, and ready to learn.
 
+<h2><b>#4) Vary Your Study Methods</b></h2>
+
+<b>Rewrite or Rephrase the Material in Your Own Words</b>
+It can be easy to get lost in a textbook and look back over a page, only to realize you don't remember what you just read. But luckily, that can be remedied.
+
+For classes that require you to read large bodies of text, such as history, English, or psychology, make sure to stop periodically as you read. Pause at the end of a paragraph or a section and—without looking!—think about what the text just stated. Re-summarize it in your own words. Now glance back over the material to make sure you summarized the information accurately and remembered the relevant details. Make a mental note of whatever you missed and then move on to the next section.
+
+You may also want to make a bulleted list of the pertinent information instead of just rephrasing it mentally or aloud. Without looking back down at the textbook, jot down the essentials of the material you just read. Then look over the book to make sure you haven't left out any necessary information.
+
+Whether you choose to simply summarize aloud or whether you write your information down, re-wording the text is an invaluable study tool. By rephrasing the text in your own words, you can be sure you're actually remembering the information and absorbing its meaning, rather than just rote copying the info without truly understanding or retaining it.
+
+<b>Teach the Material to Someone Else</b>
+Teaching someone else is a great way to distill your thoughts and summarize the information you've been studying. And, almost always, teaching someone else shows you that you've learned more about the material than you think!
+
+Find a study-buddy, or a patient friend or relative, or even just a figurine or stuffed animal and explain the material to them as if they're hearing about it for the first time. Whether the person you're teaching is real or not, the act of teaching material aloud to another human being requires you to re-frame the information in new ways and think more carefully about how all the elements fit together.
+
+And the act of running through your material this way—especially if you do it aloud—helps you more easily lock it in your mind.
+
+<b>Quiz Yourself With Flashcards</b>
+Making flashcards is an oft-used study tool and for very good reason! Making your own flash cards can not only help you retain information just through the sheer act of writing it down, but will also help you connect pertinent pieces of information together. So for any subjects in which you must remember the connections between terms and information, such as formulas, vocabulary, equations, or historical dates, flashcards are the way to go.
+
+To make the best use of your flashcards, use the Leitner Method, so that you don't waste your time studying what you already know.
+
+To employ this method, quiz yourself with your flashcards and separate the cards into two different piles. In Pile 1, place the cards you knew and answered correctly, in Pile 2, place the cards you didn't know the answers to.
+
+Now go back through the cards again, but only studying the cards from Pile 2 (the "didn't know" pile). Separate these again as you go through them into Pile 1 (know) and Pile 2 (don't know). Repeat the process of only studying to "don't know" cards until more and more cards can be added to the "know" pile.
+
+Once all the cards are in the "know" pile, go through the whole pile once again to make sure you've retained the information on all the cards.
+
+<h2><b>Reward Yourself</b></h2>
+
+<p>To make studying a little more fun, give yourself a small reward whenever you hit a study milestone. For instance, let yourself eat a piece of candy for every 25 flash cards you test yourself on or for every three paragraphs you read (and re-word) in your textbook. Or perhaps give yourself one extra minute of video game or television-watching time for every page you study from your book (to be redeemed only after your study time is over, of course).
+
+Whatever your particular incentive is, let yourself have that small reward-boost to help see you through the days when studying seems particularly taxing.</p>
 
 
 <caption>Please follow our social media linked in the website's footer.</caption>
