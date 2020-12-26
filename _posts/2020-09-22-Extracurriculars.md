@@ -22,7 +22,7 @@ Middle school is also a good time to think about how students will build on inte
 
 The bridge to high school from middle school can feel long and scary. But with parental help, students can develop helpful habits, explore college and career goals in a gentle way and see high school as something to look forward to, not run from.
 
-<p>Examples of Meaningful Extracurricular Activities<a href="https://www.enlighteens.com/post/meaningful-extracurricular-activities-50-examples"></a></p>
+<p>Examples of Meaningful Extracurricular Activities<a href="https://www.enlighteens.com/post/meaningful-extracurricular-activities-50-examples" target="_blank"></a></p>
 
 
 <b>Please follow our social media linked in the website's footer.</b>
