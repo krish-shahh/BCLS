@@ -101,7 +101,7 @@ Sleep increases focus and concentration. The effects of not sleeping are much li
 A regular sleep schedule is preferable and will do wonders for your overall health, happiness, concentration, and memory. But even if you can't sleep, just closing your eyes and relaxing will help. So if you find yourself grappling with insomnia, let yourself relax in the dark and in your bed instead of whittling away the hours some other way.</p>
 
 
-<caption>Please follow our social media linked in the website's footer.</caption>
+<caption><b>Please follow our social media linked in the website's footer.</b></caption>
 
 
 
