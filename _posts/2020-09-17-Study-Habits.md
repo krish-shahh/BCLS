@@ -60,6 +60,7 @@ So make sure you take water, a jacket, a snack, coffee, or whatever else you nee
 <h2><b>#4) Vary Your Study Methods</b></h2>
 
 <b>Rewrite or Rephrase the Material in Your Own Words</b>
+
 It can be easy to get lost in a textbook and look back over a page, only to realize you don't remember what you just read. But luckily, that can be remedied.
 
 For classes that require you to read large bodies of text, such as history, English, or psychology, make sure to stop periodically as you read. Pause at the end of a paragraph or a section and—without looking!—think about what the text just stated. Re-summarize it in your own words. Now glance back over the material to make sure you summarized the information accurately and remembered the relevant details. Make a mental note of whatever you missed and then move on to the next section.
@@ -69,6 +70,7 @@ You may also want to make a bulleted list of the pertinent information instead o
 Whether you choose to simply summarize aloud or whether you write your information down, re-wording the text is an invaluable study tool. By rephrasing the text in your own words, you can be sure you're actually remembering the information and absorbing its meaning, rather than just rote copying the info without truly understanding or retaining it.
 
 <b>Teach the Material to Someone Else</b>
+
 Teaching someone else is a great way to distill your thoughts and summarize the information you've been studying. And, almost always, teaching someone else shows you that you've learned more about the material than you think!
 
 Find a study-buddy, or a patient friend or relative, or even just a figurine or stuffed animal and explain the material to them as if they're hearing about it for the first time. Whether the person you're teaching is real or not, the act of teaching material aloud to another human being requires you to re-frame the information in new ways and think more carefully about how all the elements fit together.
@@ -76,6 +78,7 @@ Find a study-buddy, or a patient friend or relative, or even just a figurine or 
 And the act of running through your material this way—especially if you do it aloud—helps you more easily lock it in your mind.
 
 <b>Quiz Yourself With Flashcards</b>
+
 Making flashcards is an oft-used study tool and for very good reason! Making your own flash cards can not only help you retain information just through the sheer act of writing it down, but will also help you connect pertinent pieces of information together. So for any subjects in which you must remember the connections between terms and information, such as formulas, vocabulary, equations, or historical dates, flashcards are the way to go.
 
 To make the best use of your flashcards, use the Leitner Method, so that you don't waste your time studying what you already know.
