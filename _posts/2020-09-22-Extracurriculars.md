@@ -21,3 +21,5 @@ Middle school is also a good time to think about how students will build on inte
  
 
 The bridge to high school from middle school can feel long and scary. But with parental help, students can develop helpful habits, explore college and career goals in a gentle way and see high school as something to look forward to, not run from.
+
+<b>Please follow our social media linked in the website's footer.</b>
