@@ -22,7 +22,7 @@ Aside from doing homework, set aside a dedicated 50 to 75 minutes to study each 
 
 
 
-<caption>POST BY KRISH SHAH</caption>
+<caption>Please follow our social media linked in the website's footer.</caption>
 
 
 
