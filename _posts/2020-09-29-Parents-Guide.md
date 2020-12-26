@@ -2,7 +2,6 @@
 title: "Parents Guide to High School"
 categories:
   - Middle School -> High School
-  - High School
   - Parents
 ---
 
