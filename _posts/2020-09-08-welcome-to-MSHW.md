@@ -1,7 +1,5 @@
 ---
 title: "Welcome to Mentoring SuperHighway!"
-categories:
-  - Welcome
 ---
 
 <!---
