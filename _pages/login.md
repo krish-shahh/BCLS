@@ -1,6 +1,5 @@
 ---
 permalink: /login/
-title: "Login"
 ---
 
 <head>
