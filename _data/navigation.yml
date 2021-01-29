@@ -5,3 +5,5 @@ main:
     url: /blog/
   - title: "Contact Me"
     url: /contact/
+  - title: "Login"
+    url: /login/
