@@ -85,6 +85,7 @@ defaults:
       comments: false
       share: true
       related: true
+      show_downloads: true
 
   # _pages
   - scope:
