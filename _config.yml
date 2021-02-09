@@ -62,7 +62,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Krish_Shahh"
-      target="_blank"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/krish-shahh"
