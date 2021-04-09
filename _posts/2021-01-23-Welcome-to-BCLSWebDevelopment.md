@@ -10,4 +10,5 @@ If there are any questions with this program or any concerns please reach out to
 
 <audio id="music" preload="auto" loop="false">
     <source src="/recordings/test.mp3" type="audio/mp3">
+    <source src="/recordings/test.ogg" type="audio/ogg">
 </audio>
