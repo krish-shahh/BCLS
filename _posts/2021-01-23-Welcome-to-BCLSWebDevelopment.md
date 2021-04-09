@@ -2,10 +2,9 @@
 title: "Welcome to the BCLS Web Development Course!"
 ---
 
-
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+  <source src="/recordings/test.ogg" type="audio/ogg">
+  <source src="/recordings/test.mp3" type="audio/mpeg">
 </audio>
 
 The BCLS Web Development Class is a free course taught by High School Junior Krish Shah. This course is meant to teach the basics of web development in order for students to create a personal portfolio.
