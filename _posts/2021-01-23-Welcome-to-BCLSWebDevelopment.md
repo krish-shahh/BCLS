@@ -8,4 +8,9 @@ Once per week there will be a Zoom call that will cover each part of the web dev
 
 If there are any questions with this program or any concerns please reach out to me in the <a href="{{ '/contact/' | relative_url }}">"Contact Me"</a> tab. Be sure to put your full name, email, and comments or questions you have.
 
-![Sample](test.mp3)
+<p>
+  <span alt="Excerpt from Mother of All Demos (1968).ogg" src="recordings/test.ogg" class="internal-embed media-embed is-loaded">
+    <audio controls="" src="https://drive.google.com/file/d/1gbyKPvsgVHVudE15hEuEczFMcK-4UMOV/view?usp=sharing"></audio>
+  </span>
+</p>
+  
