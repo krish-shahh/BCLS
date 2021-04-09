@@ -15,4 +15,3 @@ Once per week there will be a Zoom call that will cover each part of the web dev
 
 If there are any questions with this program or any concerns please reach out to me in the <a href="{{ '/contact/' | relative_url }}">"Contact Me"</a> tab. Be sure to put your full name, email, and comments or questions you have.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nijb6UMvZuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
