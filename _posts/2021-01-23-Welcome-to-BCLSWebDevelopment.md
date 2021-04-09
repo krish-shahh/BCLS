@@ -2,8 +2,6 @@
 title: "Welcome to the BCLS Web Development Course!"
 ---
 
-![](recordings/test.mp3)
-
 The BCLS Web Development Class is a free course taught by High School Junior Krish Shah. This course is meant to teach the basics of web development in order for students to create a personal portfolio.
 
 Once per week there will be a Zoom call that will cover each part of the web development process with lessons and coding instructions. These zoom calls will be accessible through BCLS website and will be recorded for later reference. These recordings can be accessed in the <a href="{{ '/blog/' | relative_url }}">"Blog/Previous Sessions"</a> tab of this website.
