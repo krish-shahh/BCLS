@@ -8,8 +8,7 @@ Once per week there will be a Zoom call that will cover each part of the web dev
 
 If there are any questions with this program or any concerns please reach out to me in the <a href="{{ '/contact/' | relative_url }}">"Contact Me"</a> tab. Be sure to put your full name, email, and comments or questions you have.
 
-{% include open-embed.html %}
-
-<audio controls>
-  <source src="/recordings/test.mp3" type="audio/mpeg">
+<audio controls autoplay>
+  <source src="test.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
 </audio>
