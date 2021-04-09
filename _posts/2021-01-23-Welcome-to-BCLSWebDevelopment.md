@@ -15,6 +15,4 @@ Once per week there will be a Zoom call that will cover each part of the web dev
 
 If there are any questions with this program or any concerns please reach out to me in the <a href="{{ '/contact/' | relative_url }}">"Contact Me"</a> tab. Be sure to put your full name, email, and comments or questions you have.
 
-<audio controls="controls">
-    <source src="https://docs.google.com/uc?export=download&id=1gbyKPvsgVHVudE15hEuEczFMcK-4UMOV">
-</audio>
+<iframe src="https://docs.google.com/uc?export=download&id=1gbyKPvsgVHVudE15hEuEczFMcK-4UMOV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
