@@ -1,4 +1,4 @@
-# Mentoring SuperHighway
+# Virtual Web Development
 The Virtual Web Development Class is a free course taught by High School Junior Krish Shah. This course is meant to teach the basics of web development in order for students to create a personal portfolio by the end of the course.
 
 
