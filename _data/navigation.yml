@@ -1,7 +1,7 @@
 main:
   - title: "Course Syllabus"
     url: /syllabus/
-  - title: "Blog/Previous Sessions"
+  - title: "Blog/Recorded Lessons"
     url: /blog/
   - title: "Contact Me"
     url: /contact/
