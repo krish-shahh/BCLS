@@ -6,7 +6,7 @@ title: "Welcome to the Virtual Web Development Course!"
 <iframe src="YOUTUBE LINK" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 --->
 
-The BCLS Web Development Class is a free course taught by High School Junior Krish Shah. This course is meant to teach the basics of web development in order for students to create a personal portfolio.
+The Virtual Web Development Class is a free course taught by High School Junior Krish Shah. This course is meant to teach the basics of web development in order for students to create a personal portfolio.
 
 Lessons will be recorded and accessed through the <a href="{{ '/blog/' | relative_url }}">"Blog/Previous Sessions"</a> tab of this website.
 
