@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Krish Shah"
   avatar : "/assets/images/Krish.jpeg"
-  bio    : "I'm a 17 year old interested in computer engineering. During my high school career, I've participated in many extracurriculars & earned many achievements such as Eagle Scout and Black Belt. I am the founder and president of Mentoring SuperHighway. Volunteer Web Development Teacher at the Burlington County Library System"
+  bio    : "I'm a 17 year old interested in computer engineering. During my high school career, I've participated in many extracurriculars & earned many achievements such as Eagle Scout and Black Belt."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
